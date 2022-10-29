@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "rxjs": "^7.5.7"
+  },
+  "name": "rxjs-core",
+  "description": "rxjs-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccj-007/rxjs-core.git"
+  },
+  "keywords": [],
+  "author": "chase chen <596487930@qq.com> (https://github.com/ccj-007)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccj-007/rxjs-core/issues"
+  },
+  "homepage": "https://github.com/ccj-007/rxjs-core#readme"
+}
